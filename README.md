@@ -1,4 +1,4 @@
-#Hi, I'm Arasu | Senior Data Engineer
+# Hi, I'm Arasu | Senior Data Engineer
 
 **11+ years of experience in Data Engineering | Cloud Data Warehousing | Snowflake | dbt | Oracle | Python | Data Migration**
 
