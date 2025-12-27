@@ -38,5 +38,4 @@ LinkedIn: www.linkedin.com/in/ecarasu
 
 ---
 
-⭐ **Thanks for visiting my GitHub!**  
-I’m actively building more public projects—stay tuned.
+⭐ **Thanks for visiting my GitHub!**
